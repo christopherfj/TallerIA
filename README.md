@@ -6,7 +6,7 @@ https://colab.research.google.com/
 Registrarse en ChatGPT:
 https://chat.openai.com/
 
-Registrase en Voiceflow
+Registrase en Voiceflow:
 https://www.voiceflow.com/
 
 Descargar imágenes médicas:
