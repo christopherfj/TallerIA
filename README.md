@@ -21,5 +21,11 @@ Instalar bibliotecas:
 
 !pip install setfit --q
 
+Dar acceso a Google Drive:
+
+from google.colab import drive
+
+drive.mount('/content/gdrive/', force_remount=True)
+
 
 
