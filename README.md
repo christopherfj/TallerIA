@@ -10,7 +10,7 @@ Registrase en Voiceflow:
 https://www.voiceflow.com/
 
 Descargar imágenes médicas:
-https://drive.google.com/drive/folders/14NUFRm7-U51PNfEwgHZbTGYy_iGK7aMP?usp=sharing
+Este repositorio
 
 Descargar modelo de clasificación de textos:
 https://drive.google.com/file/d/11h7cjanFs96jVTqDZaMgaJcT2Y1ucNCZ/view?usp=sharing
